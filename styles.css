@@ -1,0 +1,6 @@
+/*
+  FocusFlow — styles.css
+  El CSS completo vive ahora inline en index.html.
+  Este archivo se conserva porque el Service Worker lo cachea,
+  pero no está enlazado desde index.html y no afecta a la app.
+*/
